@@ -8,7 +8,7 @@ i have worked at Opensooq for six year.
 iam really excited about this course with this lovely team .
 [myprofile](https://github.com/sarahaddad91)
 
-###good developer mindset:
+### good developer mindset:
 
 *the purpose of the software is not to show off how intelligent you are
 Every programmer is a designer.
